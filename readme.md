@@ -27,14 +27,15 @@ Verifico se ho tutti gli ingredienti
 
 Dispongo gli ingredienti 
 Preparo il soffritto per il ragù
+
 <!-- Ingrediente segreto -->
 Aggiungo l'ingrediente segreto nel ragù
 ? SE sto seguendo la ricetta della nonna
-- Aggiungo un goccio di Vin Santo
+    - Aggiungo un goccio di Vin Santo
 
 : ALTRIMENTI 
 
-- Un pezzetto di cioccolato fondente
+    - Un pezzetto di cioccolato fondente
 
 Preparo la besciamella fatta in casa
 Preparo la sfoglia fatta a mano
@@ -42,6 +43,7 @@ Preparo la sfoglia fatta a mano
 Preriscaldo il forno
 FINCHÉ il forno non è a temperatura 
     - Assemblo gli ingredienti
+    
 Inforno la lasagna a 180 gradi 
 
 FINCHÉ non finisce di cuocere la lasagna
@@ -53,6 +55,6 @@ Lascio raffreddare la lasagna
 Assaggio la lasagna 
 
 ? SE la lasagna che ho cucinato mi soddisfa 
-  - La mangio
+    - La mangio
 :ALTRIMENTI 
-- Me la faccio cucinare dalla nonna 
+    - Me la faccio cucinare dalla nonna 
